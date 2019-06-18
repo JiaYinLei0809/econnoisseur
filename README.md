@@ -60,11 +60,11 @@ Deploy on Local
 ### download
 1. 下载[Watson Studio Desktop](https://www.ibm.com/cloud/watson-studio?loc=cn-zh)
 
-### create project
-2. 创建项目
+### create project 
+2. 创建项目（同Watson Studio on Cloud)
 
 ### import project
-3. 导入模型
+3. 导入模型（同Watson Studio on Cloud)
 
 ### run moduler
-4. 运行Spss Moduler模型
+4. 运行Spss Moduler模型（同Watson Studio on Cloud)
