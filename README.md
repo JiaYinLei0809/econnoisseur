@@ -58,7 +58,7 @@ Deploy on Local
 4. [运行Spss Moduler模型](###run-moduler)<br>
 
 ### download
-1. 下载Watson Studio
+1. 下载[Watson Studio Desktop](https://www.ibm.com/cloud/watson-studio?loc=cn-zh)
 
 ### create project
 2. 创建项目
