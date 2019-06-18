@@ -26,11 +26,7 @@ Include Components
 
 Deploy on IBM CLoud
 ---
-1. [注册Watson Studio](###register) <br>
-2. [创建项目](###create) <br>
-3. [导入模型](###import)<br>
-4. [运行Spss Moduler模型](###run)<br>
-
+### register
 1. Sign up for Watson Studio
 ---
 注册并登陆IBM Cloud平台，通过创建Watson Studio服务后登陆平台创建一个新的项目
