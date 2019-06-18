@@ -46,6 +46,11 @@ Deploy on IBM CLoud
 3. 导入模型
 ![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC04.png)
 ![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC05.png)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC06.png)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC08.png)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC09.png)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC10.png)
+
 ### run
 4. 运行Spss Moduler模型
 
