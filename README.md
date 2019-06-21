@@ -29,7 +29,7 @@ Deploy on IBM CLoud
 ### 1. 注册 Watson Studio
 ---
 注册并登陆IBM Cloud平台，通过创建Watson Studio服务后登陆平台创建一个新的项目
-![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC01.jpg)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC01.png)
 
 ### 2. 创建项目 : 选择项目模板：Modeler并创建模板
 ![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC02.png)
