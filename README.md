@@ -60,11 +60,19 @@ Deploy on Local
 ### download
 1. 下载[Watson Studio Desktop](https://www.ibm.com/cloud/watson-studio?loc=cn-zh)
 
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC01.jpg)
+
 ### create project 
 2. 创建项目（同Watson Studio on Cloud)
+
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC01.jpg)
 
 ### import project
 3. 导入模型（同Watson Studio on Cloud)
 
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC01.jpg)
+
 ### run moduler
 4. 运行Spss Moduler模型（同Watson Studio on Cloud)
+
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC01.jpg)
