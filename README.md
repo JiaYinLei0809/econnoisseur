@@ -64,15 +64,16 @@ Deploy on Local
 
 ### create project 
 2. 创建项目（同Watson Studio on Cloud)
-![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC02.jpg)
-![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC03.jpg)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(82).png)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(81).png)
 
 ### import project
 3. 导入模型（同Watson Studio on Cloud)
-
-![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC01.jpg)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(83).png)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(84).png)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(85).png)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(86).png)
 
 ### run moduler
 4. 运行Spss Moduler模型（同Watson Studio on Cloud)
-
 ![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC01.jpg)
