@@ -76,5 +76,5 @@ Deploy on Local
 
 ### run moduler
 4. 运行Spss Moduler模型（同Watson Studio on Cloud)
-![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(117).png)
 ![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(119).png)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(117).png)
