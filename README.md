@@ -59,13 +59,13 @@ Deploy on Local
 
 ### download
 1. 下载[Watson Studio Desktop](https://www.ibm.com/cloud/watson-studio?loc=cn-zh)
-
-![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC01.jpg)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(78).png)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/屏幕截图(79).png)
 
 ### create project 
 2. 创建项目（同Watson Studio on Cloud)
-
-![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC01.jpg)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC02.jpg)
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC03.jpg)
 
 ### import project
 3. 导入模型（同Watson Studio on Cloud)
