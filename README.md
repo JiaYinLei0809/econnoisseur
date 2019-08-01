@@ -46,7 +46,7 @@ Deploy on IBM CLoud
 ![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC08.png)
 ![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/005.jpg)
 ![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/IC10.png)
-
+![flow](https://github.com/JiaYinLei0809/econnoisseur/blob/master/source/006.jpg)
 ### 4. 运行Spss Moduler模型
 
 Deploy on Local
